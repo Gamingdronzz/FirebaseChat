@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "590087111435",
+    "firebase_url": "https://test-chat-application-551ab.firebaseio.com",
+    "project_id": "test-chat-application-551ab",
+    "storage_bucket": "test-chat-application-551ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590087111435:android:2702fbf7e095a217",
+        "android_client_info": {
+          "package_name": "com.gamingdronzz.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590087111435-4490vg0ic6pe8679vlt48svdr79ojo6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamingdronzz.firebasechat",
+            "certificate_hash": "1fe9e2d5d99ee5315b81d031a7833cd3d04b45bd"
+          }
+        },
+        {
+          "client_id": "590087111435-ukgiui214ki1fncrnvld00taspscpbi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamingdronzz.firebasechat",
+            "certificate_hash": "972400e341f50598a27277a0709281acb55cb3e0"
+          }
+        },
+        {
+          "client_id": "590087111435-pcj3lk7si0jccnkpf0hue2bq8v4h0bk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrVC7lWHWJE8XKjvU0ADYlmastmZ121E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590087111435-pcj3lk7si0jccnkpf0hue2bq8v4h0bk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
